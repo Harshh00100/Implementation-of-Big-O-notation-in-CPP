@@ -4,7 +4,7 @@ Aim: To study and implement Big O notation in C++
 
 Software: Mingw c/cpp compiler , VScode , online C++ compiler
 
-# Program 
+# Program Time complexity
 Theory with explanation of the code:
 - Time complexity measures how the runtime of an algorithm grows with input size.
 - O(1) represents constant time: execution does not depend on input size.
